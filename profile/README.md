@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/InhenTech/.github/0c8eebd2bb02a262f3637559f7a95456cf4b8141/profile/assets/banner.svg" alt="因恒科技：应用场景、数据基础设施、技术与工具、研究与洞察" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/InhenTech/.github/8cf339bac47509cb4ea236a6d494c22ee26587a3/profile/assets/banner.svg" alt="因恒科技：应用场景、数据基础设施、技术与工具、研究与洞察" width="100%"></p>
 
 # 因恒科技 InhenTech
 
